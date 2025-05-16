@@ -22,6 +22,7 @@ Welcome to my digital playground! I'm a curious coder with a passion for Laravel
 ### 🌟 Featured Projects
 
 1. **[License Guard](https://github.com/don-vicks/license-guard)**: An open-source license management system.
+2. **[Rug Scan](https://github.com/Don-Vicks/rug-scan)**: a lightweight MCP and effective risk assessment tool for Solana tokens.
 
 ### 💡 Fun Facts
 
@@ -32,7 +33,7 @@ Welcome to my digital playground! I'm a curious coder with a passion for Laravel
 
 ### 🎭 Quote of the Day
 
-"There are no secrets to success. It is the result of preparation, hard work, and learning from failure" - Colin Powell
+"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place." - Richard Bach
 
 ### 📫 Let's Connect!
 
