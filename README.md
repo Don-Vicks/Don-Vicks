@@ -5,7 +5,7 @@
 ## ⚙️ About Me
 
 I’m a Software Engineer who started coding at age 10 and have since worked with brands like **Stellar**, **Superhosts**, **Superteam**.
-Right now I’m shipping AI-agent, stablecoin and RWA products across Solana, Arc, Monad and Zcash.
+Right now I’m shipping AI-agent infra, tokenized assets and markets on Solana.
 
 ## 🧠 Core Stack
 
