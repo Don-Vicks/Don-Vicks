@@ -18,14 +18,17 @@ Right now I’m contributing to **[Stallion](https://github.com/stallionsassembl
 
 ## 🚀 Projects by Impact
 
-- **[PromptJam](https://github.com/superteamNigeria/PROMPTJAM)** – Superteam Nigeria's Prompt Jam submissions hub. *30+ forks from participants*
-- **[License Guard](https://github.com/Don-Vicks/license-guard)** – Open-source license management for developers & SaaS (Laravel). *10★*
-- **[Lens](https://github.com/Don-Vicks/lens)** – API-first facial-recognition attendance system for schools. *8★, 4 forks*
-- **[Stallion](https://github.com/stallionsassemble)** – Decentralized bounty platform with Soroban smart contracts on Stellar.
-- **[Superteam NG Developer Resources](https://github.com/superteamNigeria/Developer-Resourses)** – Everything a dev needs to start building on Solana.
-- **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs (Yellowstone gRPC), alerting to Slack, Telegram, PagerDuty, Discord and MCP agents.
+- **[License Guard](https://github.com/Don-Vicks/license-guard)** – Open-source license management for developers & SaaS (Laravel). *10★ · 2 forks*
+- **[Lens](https://github.com/Don-Vicks/lens)** – API-first facial-recognition attendance system for schools. *8★ · 4 forks*
+- **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs (Yellowstone gRPC), alerting to Slack, Telegram, PagerDuty, Discord and MCP agents. *Rust*
+- **[Stallion](https://github.com/stallionsassemble/stallion-contract)** – Decentralized bounty platform with Soroban smart contracts on Stellar.
 - **[Backed](https://github.com/Don-Vicks/backed)** – Pre-orders on Solana via Meteora Dynamic Bonding Curves, with a DAMM v2 resale market paying maker royalties. [Live](https://backed.up.railway.app)
 - **[Rug Scan](https://github.com/Don-Vicks/rug-scan)** – MCP & risk-assessment tool for Solana tokens.
+
+### Community
+
+- **[PromptJam](https://github.com/superteamNigeria/PROMPTJAM)** – Superteam Nigeria Prompt Jam hub. *32 forks*
+- **[Solana Developer Resources](https://github.com/superteamNigeria/Developer-Resourses)** – Curated resources for building on Solana.
 
 ## 💬 A Little Extra
 
