@@ -21,14 +21,15 @@ Right now I’m shipping AI-agent infra, tokenized assets and markets on Solana.
 **🤖 AI Agents × On-chain Infra**
 - **[Vortex](https://github.com/Don-Vicks/vortex)** – Solana transaction execution & reliability stack: Yellowstone/Jito gRPC with a multi-model AI agent. *Rust*
 - **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs, alerting to Slack, Telegram, PagerDuty, Discord and MCP agents. *Rust*
-- **[Solana Client Architect Skill](https://github.com/Don-Vicks/solana-client-architect-skill)** – AI coding-agent skill that turns Solana IDLs into production frontends on the modern web3.js v2 / Kit stack.
+
+**💵 Payments & AI**
+- **[FlexPay](https://github.com/Don-Vicks/flexpay)** – Accept payment in any Solana token and settle merchants in USDC via Jupiter.
+- **[Lens](https://github.com/Don-Vicks/lens)** – API-first facial-recognition attendance system for schools. *8★ · 4 forks*
 
 **🏦 Tokenized Assets & Markets**
-- **[Always](https://github.com/Don-Vicks/always)** – A 24/7 S&P 500 savings account on Solana: USDC weekly orders filled into tokenized SPYx by keepers.
 - **[Backed](https://github.com/Don-Vicks/backed)** – Tokenized pre-orders on Meteora Dynamic Bonding Curves with a DAMM v2 resale market paying maker royalties. [Live](https://backed.up.railway.app)
 - **[Touchline](https://github.com/Don-Vicks/touchline)** – Second screen for live football with built-in prediction markets. [Live on mainnet](https://touchline.up.railway.app)
 
-**More:** [FlexPay](https://github.com/Don-Vicks/flexpay) (pay in any Solana token, settle in USDC via Jupiter) · [Lens](https://github.com/Don-Vicks/lens) (facial-recognition attendance, 8★)
 
 ## 💬 A Little Extra
 
