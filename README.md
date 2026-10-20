@@ -1,38 +1,49 @@
 # 👋 Hey, I’m Victor
 
-**Full-Stack & Blockchain Engineer** — I build sleek, scalable systems where web, mobile, and decentralized tech collide.  
+**Software & Blockchain Engineer** — I build sleek, scalable systems where web, mobile, AI and decentralized tech collide.
 
-## ⚙️ About Me  
+## ⚙️ About Me
 
-I’m a Software Engineer who started coding at age 10 and have since worked with brands like **Stellar**, **Superhosts**, **Superteam**.  
-These days, I’m deep in **Next.js**, **React**, **Nest.js**, **Expo**, **Laravel**, and **Solana (Rust + Anchor)** — always pushing to ship clean, efficient, and creative code.  
+I’m a Software Engineer who started coding at age 10 and have since worked with brands like **Stellar**, **Superhosts**, **Superteam**.
+Right now I’m building agri-tech and AI systems at **[Agrolinking Solutions](https://github.com/Agrolinking-Solutions)**, contributing to **[Stallion](https://github.com/stallionsassemble)** and **[Ankara](https://github.com/ankarachain)** (open-source RWA tokenization), and shipping hackathon builds across Solana, Monad and Zcash.
 
-## 🧠 Core Stack  
+## 🧠 Core Stack
 
-- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS  
-- **Backend:** Nest.js, Laravel, Node.js, PostgreSQL  
-- **Blockchain:** Solana, Rust, Anchor  
-- **Mobile:** React Native (Expo)  
-- **Tools & Infra:** Docker, GitHub Actions, Vercel, Supabase  
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS
+- **Backend:** Nest.js, Node.js, Laravel, PostgreSQL
+- **Blockchain:** Solana (Rust, Anchor, Meteora), Solidity, Zcash
+- **AI & Data:** Python, LLM agents, MCP servers
+- **Mobile:** React Native (Expo), Kotlin
+- **Tools & Infra:** Docker, GitHub Actions, Vercel, Railway, Supabase
 
-## 🚀 Projects I’m Proud Of  
+## 🚀 Recent Work
 
-- **[License Guard](https://github.com/don-vicks/license-guard)** – Open-source license management system for developers & SaaS projects.  
-- **[Rug Scan](https://github.com/don-vicks/rug-scan)** – Lightweight MCP & risk-assessment tool for Solana tokens.  
-- **[Solara Pay](https://github.com/don-vicks/solara-pay)** – Decentralized payment gateway built on Solana for seamless crypto transactions.  
+- **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs (Yellowstone gRPC), with alerts to Slack, Telegram, PagerDuty, Discord and MCP agent access. *Rust*
+- **[Backed](https://github.com/Don-Vicks/backed)** – Pre-orders on Solana: early-bird pricing on a Meteora Dynamic Bonding Curve and a DAMM v2 resale market paying maker royalties. [Live](https://backed.up.railway.app)
+- **[Accrue](https://github.com/pauleke65/accrue)** – Fund the job, agree what completion means, get paid when the work is verified. Monad Metropolis.
+- **[Ankara Core](https://github.com/ankarachain/ankara-core)** – Open-source RWA tokenization infrastructure.
+- **[Agrolinking Intelligence](https://github.com/Agrolinking-Solutions/Agrolinking-Intelligence)** – AI layer for agricultural data and supply chains.
+- **[Vortex](https://github.com/Don-Vicks/vortex)** – Rust project on Solana.
 
-## 💬 A Little Extra  
+### Earlier
 
-- Based in **Nigeria 🇳🇬**  
-- Always experimenting, learning, and building something new  
-- Driven by **impact, creativity, and clean architecture**  
-- Lowkey obsessed with system design and AI integrations  
+- **[License Guard](https://github.com/Don-Vicks/license-guard)** – Open-source license management for developers & SaaS.
+- **[Solara Pay](https://github.com/Don-Vicks/solara-pay)** – Decentralized payment gateway on Solana.
+- **[Rug Scan](https://github.com/Don-Vicks/rug-scan)** – MCP & risk-assessment tool for Solana tokens.
 
-## ✨ Quote  
+## 💬 A Little Extra
 
-> “Stay curious. Build relentlessly. Ship often.”  
+- Based in **Nigeria 🇳🇬**
+- Always experimenting, learning, and building something new
+- Driven by **impact, creativity, and clean architecture**
+- Obsessed with system design, AI agents and on-chain infra
 
-## 🌍 Connect  
+## ✨ Quote
 
-- 🐦 [Twitter / X](https://x.com/victorshallang)  
+> “Stay curious. Build relentlessly. Ship often.”
+
+## 🌍 Connect
+
+- 🌐 [Portfolio](https://victorshallangwa.vercel.app)
+- 🐦 [Twitter / X](https://x.com/victorshallang)
 - 💼 [LinkedIn](https://ng.linkedin.com/in/victor-zakka-shallangwa-479416254)
