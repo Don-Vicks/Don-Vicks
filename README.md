@@ -5,7 +5,7 @@
 ## ⚙️ About Me
 
 I’m a Software Engineer who started coding at age 10 and have since worked with brands like **Stellar**, **Superhosts**, **Superteam**.
-Right now I’m contributing to **[Stallion](https://github.com/stallionsassemble)** and **[Ankara](https://github.com/ankarachain)** (open-source RWA tokenization), and shipping AI-agent, stablecoin and RWA products across Solana, Arc, Monad and Zcash.
+Right now I’m shipping AI-agent, stablecoin and RWA products across Solana, Arc, Monad and Zcash.
 
 ## 🧠 Core Stack
 
@@ -21,16 +21,14 @@ Right now I’m contributing to **[Stallion](https://github.com/stallionsassembl
 **🤖 AI Agents × On-chain Infra**
 - **[Vortex](https://github.com/Don-Vicks/vortex)** – Solana transaction execution & reliability stack: Yellowstone/Jito gRPC with a multi-model AI agent. *Rust*
 - **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs, alerting to Slack, Telegram, PagerDuty, Discord and MCP agents. *Rust*
+- **[Solana Client Architect Skill](https://github.com/Don-Vicks/solana-client-architect-skill)** – AI coding-agent skill that turns Solana IDLs into production frontends on the modern web3.js v2 / Kit stack.
 
-**💵 Stablecoins & Agentic Payments**
-- **[Accrue](https://github.com/pauleke65/accrue-arc)** – Pay for work when it's proven done: USDC escrow on Arc mainnet, verified by an AI Proof Engine agent (ERC-8183). [Live](https://accrue-arc.up.railway.app)
-
-**🏦 RWA, Markets & Consumer Crypto**
-- **[Ankara Core](https://github.com/ankarachain/ankara-core)** – Open-source RWA tokenization infrastructure for African markets.
+**🏦 Tokenized Assets & Markets**
+- **[Always](https://github.com/Don-Vicks/always)** – A 24/7 S&P 500 savings account on Solana: USDC weekly orders filled into tokenized SPYx by keepers.
 - **[Backed](https://github.com/Don-Vicks/backed)** – Tokenized pre-orders on Meteora Dynamic Bonding Curves with a DAMM v2 resale market paying maker royalties. [Live](https://backed.up.railway.app)
 - **[Touchline](https://github.com/Don-Vicks/touchline)** – Second screen for live football with built-in prediction markets. [Live on mainnet](https://touchline.up.railway.app)
 
-**More:** [Stallion](https://github.com/stallionsassemble/stallion-contract) (Soroban bounty platform) · [Lens](https://github.com/Don-Vicks/lens) (facial-recognition attendance, 8★) · [PromptJam](https://github.com/superteamNigeria/PROMPTJAM) (Superteam NG, 32 forks)
+**More:** [FlexPay](https://github.com/Don-Vicks/flexpay) (pay in any Solana token, settle in USDC via Jupiter) · [Lens](https://github.com/Don-Vicks/lens) (facial-recognition attendance, 8★)
 
 ## 💬 A Little Extra
 
