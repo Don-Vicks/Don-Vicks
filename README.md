@@ -5,7 +5,7 @@
 ## ⚙️ About Me
 
 I’m a Software Engineer who started coding at age 10 and have since worked with brands like **Stellar**, **Superhosts**, **Superteam**.
-Right now I’m contributing to **[Stallion](https://github.com/stallionsassemble)** and **[Ankara](https://github.com/ankarachain)** (open-source RWA tokenization), and shipping hackathon builds across Solana, Monad and Zcash.
+Right now I’m contributing to **[Stallion](https://github.com/stallionsassemble)** and **[Ankara](https://github.com/ankarachain)** (open-source RWA tokenization), and shipping AI-agent, stablecoin and RWA products across Solana, Arc, Monad and Zcash.
 
 ## 🧠 Core Stack
 
@@ -16,19 +16,21 @@ Right now I’m contributing to **[Stallion](https://github.com/stallionsassembl
 - **Mobile:** React Native (Expo), Kotlin
 - **Tools & Infra:** Docker, GitHub Actions, Vercel, Railway, Supabase
 
-## 🚀 Projects by Impact
+## 🚀 What I'm Building
 
-- **[License Guard](https://github.com/Don-Vicks/license-guard)** – Open-source license management for developers & SaaS (Laravel). *10★ · 2 forks*
-- **[Lens](https://github.com/Don-Vicks/lens)** – API-first facial-recognition attendance system for schools. *8★ · 4 forks*
-- **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs (Yellowstone gRPC), alerting to Slack, Telegram, PagerDuty, Discord and MCP agents. *Rust*
-- **[Stallion](https://github.com/stallionsassemble/stallion-contract)** – Decentralized bounty platform with Soroban smart contracts on Stellar.
-- **[Backed](https://github.com/Don-Vicks/backed)** – Pre-orders on Solana via Meteora Dynamic Bonding Curves, with a DAMM v2 resale market paying maker royalties. [Live](https://backed.up.railway.app)
-- **[Rug Scan](https://github.com/Don-Vicks/rug-scan)** – MCP & risk-assessment tool for Solana tokens.
+**🤖 AI Agents × On-chain Infra**
+- **[Vortex](https://github.com/Don-Vicks/vortex)** – Solana transaction execution & reliability stack: Yellowstone/Jito gRPC with a multi-model AI agent. *Rust*
+- **[Sentinel](https://github.com/Don-Vicks/sentinel)** – Real-time incident detection for Solana programs, alerting to Slack, Telegram, PagerDuty, Discord and MCP agents. *Rust*
 
-### Community
+**💵 Stablecoins & Agentic Payments**
+- **[Accrue](https://github.com/pauleke65/accrue-arc)** – Pay for work when it's proven done: USDC escrow on Arc mainnet, verified by an AI Proof Engine agent (ERC-8183). [Live](https://accrue-arc.up.railway.app)
 
-- **[PromptJam](https://github.com/superteamNigeria/PROMPTJAM)** – Superteam Nigeria Prompt Jam hub. *32 forks*
-- **[Solana Developer Resources](https://github.com/superteamNigeria/Developer-Resourses)** – Curated resources for building on Solana.
+**🏦 RWA, Markets & Consumer Crypto**
+- **[Ankara Core](https://github.com/ankarachain/ankara-core)** – Open-source RWA tokenization infrastructure for African markets.
+- **[Backed](https://github.com/Don-Vicks/backed)** – Tokenized pre-orders on Meteora Dynamic Bonding Curves with a DAMM v2 resale market paying maker royalties. [Live](https://backed.up.railway.app)
+- **[Touchline](https://github.com/Don-Vicks/touchline)** – Second screen for live football with built-in prediction markets. [Live on mainnet](https://touchline.up.railway.app)
+
+**More:** [Stallion](https://github.com/stallionsassemble/stallion-contract) (Soroban bounty platform) · [Lens](https://github.com/Don-Vicks/lens) (facial-recognition attendance, 8★) · [PromptJam](https://github.com/superteamNigeria/PROMPTJAM) (Superteam NG, 32 forks)
 
 ## 💬 A Little Extra
 
